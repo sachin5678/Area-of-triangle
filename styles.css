@@ -1,0 +1,40 @@
+body {
+  background-color: aquamarine;
+}
+
+h1 {
+  padding-top: 10rem;
+  margin: auto;
+  width: 30%;
+  text-align: center;
+}
+.box {
+  padding-top: 2rem;
+  display: block;
+  margin: auto;
+  width: 25%;
+  padding: 10px;
+  text-align: center;
+  /* box-shadow: 10rem; */
+}
+#area-btn {
+  /* padding-top: 2rem; */
+  margin: auto;
+  display: block;
+  position: absolute;
+  top: 19rem;
+  right: 43.5rem;
+
+  background-color: bisque;
+  cursor: pointer;
+}
+/* #container {
+  border: 3px solid black;
+  width: ;
+} */
+#output {
+  margin: auto;
+  width: 13%;
+  padding-top: 3rem;
+  font-size: 1.3rem;
+}
